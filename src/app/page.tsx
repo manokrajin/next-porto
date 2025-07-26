@@ -38,7 +38,7 @@ export default function Portfolio() {
     } else {
       document.documentElement.classList.remove("dark");
     }
-  }, []);
+  }, [isDarkMode]);
 
   const toggleDarkMode = () => {
     setIsDarkMode(!isDarkMode);
@@ -216,11 +216,11 @@ export default function Portfolio() {
                 performant mobile applications. I specialize in cross-platform
                 development and have successfully delivered 4+ apps to
                 production. My journey started with native Android development,
-                but I found my true calling in Flutter's elegant framework and
-                Dart's powerful language features.
+                but I found my true calling in Flutter&apos;s elegant framework and
+                Dart&apos;s powerful language features.
               </p>
               <p className="text-gray-800 dark:text-gray-100 leading-relaxed drop-shadow-sm">
-                When I'm not coding, you'll find me contributing to open-source
+                When I&apos;m not coding, you&apos;ll find me contributing to open-source
                 projects, writing technical blogs, or exploring the latest
                 mobile development trends.
               </p>

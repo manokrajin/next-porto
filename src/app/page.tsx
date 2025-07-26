@@ -102,7 +102,7 @@ export default function Portfolio() {
         "E-commerce platform for Perum Bulog's SPHP program, integrated with inventory management and sales tracking",
       tech: ["Flutter","Datadog", "Riverpod", "Firebase", "Crashlytics"],
       status: "Live",
-      link: "https://play.google.com/store/apps/details?id=com.bulog.rpk_pos&hl=id",
+      link: "https://play.google.com/store/apps/details?id=com.bulog.klik_sphp_mobile",
     },
   ];
 
@@ -220,8 +220,7 @@ export default function Portfolio() {
                 Dart&apos;s powerful language features.
               </p>
               <p className="text-gray-800 dark:text-gray-100 leading-relaxed drop-shadow-sm">
-                When I&apos;m not coding, you&apos;ll find me contributing to open-source
-                projects, writing technical blogs, or exploring the latest
+                When I&apos;m not coding, you&apos;ll find me exploring the latest
                 mobile development trends.
               </p>
               <div className="flex space-x-3 pt-4">
